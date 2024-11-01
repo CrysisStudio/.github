@@ -1,10 +1,10 @@
-[![Crysis Stusio. Fundado en 2023](https://pbs.twimg.com/media/GCuAWwWXkAARWgu?format=webp&name=4096x4096)](https://crysistudio.tech/)
+[![Crysis Stusio. Fundado en 2023](https://pbs.twimg.com/media/GCuAWwWXkAARWgu?format=webp&name=4096x4096)](https://crysistudio.xyz/)
 
 ## ℹ Sobre nosotros
 
 Somos un equipo apasionado que se dedica a la creación de **eventos emocionantes** en Minecraft para **streamers**.
 <br/>
-Visita nuestra [página web](https://crysistudio.tech/) para más información.
+Visita nuestra [página web](https://crysistudio.xyz/) para más información.
 
 ### ➡ Seguinos y se parte de la comunidad
 
