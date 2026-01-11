@@ -1,10 +1,10 @@
-[![Crysis Stusio. Fundado en 2023](https://pbs.twimg.com/media/GCuAWwWXkAARWgu?format=webp&name=4096x4096)](https://crysistudio.xyz/)
+[![Render grupal de Minecraft con las skins de los integrantes de Crysis Studio, en un paisaje nevado y festivo, celebrando la despedida de 2025 y la bienvenida a 2026.](https://i.ibb.co/zWBPrWZk/G9io7-F-Wo-AE7-Nd-V.webp)](https://crysistudio.xyz/)
 
 ## ℹ Sobre nosotros
 
-Somos un equipo apasionado que se dedica a la creación de **eventos emocionantes** en Minecraft para **streamers**.
+Somos un equipo apasionado que se dedica a la creación de experiencias en Minecraft para creadores de contenido, streamers y la comunidad en general.
 <br/>
-Visita nuestra [página web](https://crysistudio.xyz/) para más información.
+Visita nuestra [página web](https://crysistudio.xyz/) para más información sobre nosotros, nuestros servicios y novedades, así como detalles de los eventos y proyectos realizados.
 
 ### ➡ Seguinos y se parte de la comunidad
 
@@ -14,4 +14,4 @@ Visita nuestra [página web](https://crysistudio.xyz/) para más información.
 
 ## 📌 Contacto
 
-Si tienes alguna pregunta o quieres colaborar con el estudio, no dudes en ponerte en contacto con nosotros. Puedes enviar un correo electrónico a crysiscontacto@gmail.com.
+Si tienes alguna propuesta y quieres colaborar con el estudio, no dudes en ponerte en contacto con nosotros a través del siguiente formulario en [crysistudio.xyz/contact](https://www.crysistudio.xyz/contact). También puedes enviarnos un correo electrónico a crysiscontacto@gmail.com.
